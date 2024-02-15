@@ -9,3 +9,10 @@
 
     * [BRCA - Kaggle](https://www.kaggle.com/datasets/amandam1/breastcancerdataset)
 
+## Dependencies
+
+- `python`
+- `pandas`
+- `tensorflow`
+- `sklearn`
+- `ucimlrepo`
