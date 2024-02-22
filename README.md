@@ -31,5 +31,5 @@ For analysis, visualization packages like Matplotlib and Seaborn were utilized t
 - `tensorflow`
 - `sklearn`
 - `ucimlrepo`
-- 'matplotlib
-- 'ploty
+- `matplotlib`
+- `ploty`
