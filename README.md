@@ -24,7 +24,7 @@ For analysis, visualization packages like Matplotlib and Seaborn were utilized t
 
 
 
-## Dependencies
+# Dependencies
 
 - `python`
 - `pandas`
@@ -34,15 +34,15 @@ For analysis, visualization packages like Matplotlib and Seaborn were utilized t
 - `matplotlib`
 - `ploty`
 
-## Results
+# Results
 
-# BC Dataset
+## BC Dataset
 - 96.5% Accurate (Neural Network)
 - 99% training, 98% testing Accuracy (LR Model)
 - 100% training, 98% testing Accuracy (XGB Classifier Model)
 - 95.6% accurate (SVM)
 
-# BRCA Dataset
+## BRCA Dataset
 - 68.75% Accurate (Sequential Neural Network)
 - 64.29% Accurate (Neural Network)
 - 58.20% Accurate(SVM)
