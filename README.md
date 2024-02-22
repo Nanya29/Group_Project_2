@@ -33,13 +33,13 @@ For analysis, visualization packages like Matplotlib and Seaborn were utilized t
 ## Results
 
 ### BC Dataset
-- 96.5% Accurate (Neural Network)
+- 96.5% Accuracy (Neural Network)
 - 99% training, 98% testing Accuracy (LR Model)
 - 100% training, 98% testing Accuracy (XGB Classifier Model)
-- 95.6% accurate (SVM)
+- 95.6% Accuracy (SVM)
 
 ### BRCA Dataset
-- 68.75% Accurate (Sequential Neural Network)
-- 64.29% Accurate (Neural Network)
-- 58.20% Accurate(SVM)
-- 55% Accurate(KNN)
+- 68.75% Accuracy (Sequential Neural Network)
+- 64.29% Accuracy (Neural Network)
+- 58.20% Accuracy (SVM)
+- 55% Accuracy (KNN)
