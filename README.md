@@ -9,7 +9,7 @@
 
     * [BRCA - Kaggle](https://www.kaggle.com/datasets/amandam1/breastcancerdataset)
  
-# Data Analysis
+## Data Analysis
 
 Data collection began by fetching a CSV file from Kaggle.
 
@@ -20,11 +20,7 @@ Processing involved the use of various built-in Python functions and specialized
 For analysis, visualization packages like Matplotlib and Seaborn were utilized to create compelling representations of model confusion matrix.
 
 
-
-
-
-
-# Dependencies
+## Dependencies
 
 - `python`
 - `pandas`
@@ -34,15 +30,15 @@ For analysis, visualization packages like Matplotlib and Seaborn were utilized t
 - `matplotlib`
 - `ploty`
 
-# Results
+## Results
 
-## BC Dataset
+### BC Dataset
 - 96.5% Accurate (Neural Network)
 - 99% training, 98% testing Accuracy (LR Model)
 - 100% training, 98% testing Accuracy (XGB Classifier Model)
 - 95.6% accurate (SVM)
 
-## BRCA Dataset
+### BRCA Dataset
 - 68.75% Accurate (Sequential Neural Network)
 - 64.29% Accurate (Neural Network)
 - 58.20% Accurate(SVM)
